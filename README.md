@@ -1,2 +1,2 @@
 # Lab
-A place for Concepts and Little Scripts. 
+A place for Concepts, gathering ideas and Little Scripts. 
